@@ -1,0 +1,11 @@
+{
+  "smodel": "intfloat/multilingual-e5-base",
+  "dirrag": "/opt/strage/rag",
+  "namnod": "vector_",
+  "extvec": ".bin",
+  "exttxt": ".txt",
+  "strref": "参照情報：",
+  "usrref": "調べて|しらべて",
+  "usrcnt": "他には|ほかには",
+  "numtop": 3
+}
