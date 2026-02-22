@@ -1,4 +1,4 @@
-# cnnmmd_xoxxox_sensim
+# cnnmmd_xoxxox_ragdir
 
 [eng (English)](#Overview) | [jpn (日本語)](#概要)
 
@@ -10,7 +10,7 @@ This is a plugin for the following application:
 
 For more details, see:
 
-[https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_sensim.htm](https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_sensim.htm)
+[https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_ragdir.htm](https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_ragdir.htm)
 
 ## 概要
 
@@ -20,4 +20,4 @@ For more details, see:
 
 詳細は、次を参照：
 
-[https://cnnmmd.xoxxox.net/doc/jpn/refmod_cnnmmd_xoxxox_sensim.xht](https://cnnmmd.xoxxox.net/doc/jpn/refmod_cnnmmd_xoxxox_sensim.xht)
+[https://cnnmmd.xoxxox.net/doc/jpn/refmod_cnnmmd_xoxxox_ragdir.xht](https://cnnmmd.xoxxox.net/doc/jpn/refmod_cnnmmd_xoxxox_ragdir.xht)
