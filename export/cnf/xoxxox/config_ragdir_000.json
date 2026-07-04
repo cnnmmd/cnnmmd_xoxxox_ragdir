@@ -1,6 +1,6 @@
 {
   "smodel": "intfloat/multilingual-e5-base",
-  "dirrag": "/opt/strage/rag",
+  "dirrag": "/opt/vol000/rag",
   "namnod": "vector_",
   "extvec": ".bin",
   "exttxt": ".txt",
